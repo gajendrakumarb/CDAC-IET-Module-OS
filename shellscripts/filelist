@@ -1,0 +1,59 @@
+total 176
+-rw-rw-r-- 1 iet iet   123 Apr  1 21:45 addnSqr.sh
+-rw-rw-r-- 1 iet iet   574 Apr  5 16:03 calc1.sh
+-rw-rw-r-- 1 iet iet   512 Apr  5 16:12 calc2.sh
+drwxrwxr-x 2 iet iet  4096 Apr  5 15:21 f1
+-rw-rw-r-- 1 iet iet     0 Apr  6 13:06 filelist
+-rw-rw-r-- 1 iet iet   259 Apr  5 17:27 fileorfolder.sh
+-rw-rw-r-- 1 iet iet   295 Apr  5 17:35 folderexplore.sh
+-rw-rw-r-- 1 iet iet    69 Apr  5 16:29 forex1.sh
+-rw-rw-r-- 1 iet iet    87 Apr  5 16:39 forinex1.sh
+-rw-rw-r-- 1 iet iet   169 Apr  5 17:01 forinex2.sh
+-rwxrwxr-x 1 iet iet 16832 Apr  5 16:49 forkex1
+-rw-rw-r-- 1 iet iet   220 Apr  1 21:08 forkex1.c
+-rwxrwxr-x 1 iet iet 16832 Apr  5 16:51 forkex2
+-rw-rw-r-- 1 iet iet   493 Apr  5 16:51 forkex2.c
+-rwxrwxr-x 1 iet iet 16744 Apr  5 17:50 forkifex1
+-rw-rw-r-- 1 iet iet   178 Apr  5 17:50 forkifex1.c
+-rw-rw-r-- 1 iet iet    77 Apr  5 15:23 hello.sh
+-rw-rw-r-- 1 iet iet   141 Apr  5 15:25 ifex1.sh
+-rw-rw-r-- 1 iet iet   154 Apr  5 15:30 ifex2.sh
+-rw-rw-r-- 1 iet iet   279 Apr  5 15:36 ifex3.sh
+-rwxrwxr-x 1 iet iet 16784 Apr  5 16:52 infy
+-rw-rw-r-- 1 iet iet   120 Apr  1 20:13 infy.c
+-rw-rw-r-- 1 iet iet   248 Apr  5 17:43 numptr_hw2.sh
+-rw-rw-r-- 1 iet iet   224 Apr  5 17:40 starptr_hw1.sh
+-rw-rw-r-- 1 iet iet    92 Apr  5 15:17 sumex1.sh
+-rw-rw-r-- 1 iet iet    84 Apr  5 16:36 untilex1.sh
+-rw-rw-r-- 1 iet iet   118 Mar 31 20:10 userinput2.sh
+-rw-rw-r-- 1 iet iet    67 Mar 31 20:10 userinput.sh
+-rw-rw-r-- 1 iet iet   135 Apr  5 16:29 while1.sh
+addnSqr.sh
+calc1.sh
+calc2.sh
+f1
+filelist
+fileorfolder.sh
+folderexplore.sh
+forex1.sh
+forinex1.sh
+forinex2.sh
+forkex1
+forkex1.c
+forkex2
+forkex2.c
+forkifex1
+forkifex1.c
+hello.sh
+ifex1.sh
+ifex2.sh
+ifex3.sh
+infy
+infy.c
+numptr_hw2.sh
+starptr_hw1.sh
+sumex1.sh
+untilex1.sh
+userinput2.sh
+userinput.sh
+while1.sh
